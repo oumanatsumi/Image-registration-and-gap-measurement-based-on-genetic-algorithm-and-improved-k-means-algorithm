@@ -1,0 +1,44 @@
+﻿  FindDifferenceView.cpp
+F:\大三上\数字图像处理技术\FindDifference\FindDifferenceView.cpp(200,18): warning C4244:  “初始化”: 从“double”转换到“float”，可能丢失数据
+F:\大三上\数字图像处理技术\FindDifference\FindDifferenceView.cpp(201,18): warning C4244:  “初始化”: 从“double”转换到“float”，可能丢失数据
+F:\大三上\数字图像处理技术\FindDifference\FindDifferenceView.cpp(227,24): warning C4244:  “=”: 从“float”转换到“int”，可能丢失数据
+F:\大三上\数字图像处理技术\FindDifference\FindDifferenceView.cpp(228,24): warning C4244:  “=”: 从“float”转换到“int”，可能丢失数据
+F:\大三上\数字图像处理技术\FindDifference\FindDifferenceView.cpp(382,38): warning C4244:  “参数”: 从“double”转换到“float”，可能丢失数据
+F:\大三上\数字图像处理技术\FindDifference\FindDifferenceView.cpp(564,53): warning C4267:  “=”: 从“size_t”转换到“int”，可能丢失数据
+F:\大三上\数字图像处理技术\FindDifference\FindDifferenceView.cpp(562,9): warning C4101:  “j”: 未引用的局部变量
+F:\大三上\数字图像处理技术\FindDifference\FindDifferenceView.cpp(561,8): warning C4101:  “fp”: 未引用的局部变量
+F:\大三上\数字图像处理技术\FindDifference\FindDifferenceView.cpp(722,29): warning C4244:  “=”: 从“float”转换到“LONG”，可能丢失数据
+F:\大三上\数字图像处理技术\FindDifference\FindDifferenceView.cpp(723,29): warning C4244:  “=”: 从“float”转换到“LONG”，可能丢失数据
+F:\大三上\数字图像处理技术\FindDifference\FindDifferenceView.cpp(732,29): warning C4244:  “=”: 从“float”转换到“LONG”，可能丢失数据
+F:\大三上\数字图像处理技术\FindDifference\FindDifferenceView.cpp(733,29): warning C4244:  “=”: 从“float”转换到“LONG”，可能丢失数据
+F:\大三上\数字图像处理技术\FindDifference\FindDifferenceView.cpp(742,29): warning C4244:  “=”: 从“float”转换到“LONG”，可能丢失数据
+F:\大三上\数字图像处理技术\FindDifference\FindDifferenceView.cpp(743,29): warning C4244:  “=”: 从“float”转换到“LONG”，可能丢失数据
+F:\大三上\数字图像处理技术\FindDifference\FindDifferenceView.cpp(751,29): warning C4244:  “=”: 从“float”转换到“LONG”，可能丢失数据
+F:\大三上\数字图像处理技术\FindDifference\FindDifferenceView.cpp(752,29): warning C4244:  “=”: 从“float”转换到“LONG”，可能丢失数据
+F:\大三上\数字图像处理技术\FindDifference\FindDifferenceView.cpp(704,12): warning C4101:  “m”: 未引用的局部变量
+F:\大三上\数字图像处理技术\FindDifference\FindDifferenceView.cpp(939,23): warning C4305:  “初始化”: 从“double”到“float”截断
+F:\大三上\数字图像处理技术\FindDifference\FindDifferenceView.cpp(1011,55): warning C4267:  “参数”: 从“size_t”转换到“int”，可能丢失数据
+F:\大三上\数字图像处理技术\FindDifference\FindDifferenceView.cpp(1014,55): warning C4244:  “=”: 从“LONG”转换到“_Tp”，可能丢失数据
+F:\大三上\数字图像处理技术\FindDifference\FindDifferenceView.cpp(1014,55): warning C4244:         with
+F:\大三上\数字图像处理技术\FindDifference\FindDifferenceView.cpp(1014,55): warning C4244:         [
+F:\大三上\数字图像处理技术\FindDifference\FindDifferenceView.cpp(1014,55): warning C4244:             _Tp=float
+F:\大三上\数字图像处理技术\FindDifference\FindDifferenceView.cpp(1014,55): warning C4244:         ]
+F:\大三上\数字图像处理技术\FindDifference\FindDifferenceView.cpp(1015,57): warning C4244:  “=”: 从“LONG”转换到“_Tp”，可能丢失数据
+F:\大三上\数字图像处理技术\FindDifference\FindDifferenceView.cpp(1015,57): warning C4244:         with
+F:\大三上\数字图像处理技术\FindDifference\FindDifferenceView.cpp(1015,57): warning C4244:         [
+F:\大三上\数字图像处理技术\FindDifference\FindDifferenceView.cpp(1015,57): warning C4244:             _Tp=float
+F:\大三上\数字图像处理技术\FindDifference\FindDifferenceView.cpp(1015,57): warning C4244:         ]
+F:\大三上\数字图像处理技术\FindDifference\FindDifferenceView.cpp(1039,25): warning C4305:  “初始化”: 从“double”到“float”截断
+F:\大三上\数字图像处理技术\FindDifference\FindDifferenceView.cpp(1185,56): warning C4267:  “参数”: 从“size_t”转换到“int”，可能丢失数据
+F:\大三上\数字图像处理技术\FindDifference\FindDifferenceView.cpp(1188,57): warning C4244:  “=”: 从“LONG”转换到“_Tp”，可能丢失数据
+F:\大三上\数字图像处理技术\FindDifference\FindDifferenceView.cpp(1188,57): warning C4244:         with
+F:\大三上\数字图像处理技术\FindDifference\FindDifferenceView.cpp(1188,57): warning C4244:         [
+F:\大三上\数字图像处理技术\FindDifference\FindDifferenceView.cpp(1188,57): warning C4244:             _Tp=float
+F:\大三上\数字图像处理技术\FindDifference\FindDifferenceView.cpp(1188,57): warning C4244:         ]
+F:\大三上\数字图像处理技术\FindDifference\FindDifferenceView.cpp(1189,57): warning C4244:  “=”: 从“LONG”转换到“_Tp”，可能丢失数据
+F:\大三上\数字图像处理技术\FindDifference\FindDifferenceView.cpp(1189,57): warning C4244:         with
+F:\大三上\数字图像处理技术\FindDifference\FindDifferenceView.cpp(1189,57): warning C4244:         [
+F:\大三上\数字图像处理技术\FindDifference\FindDifferenceView.cpp(1189,57): warning C4244:             _Tp=float
+F:\大三上\数字图像处理技术\FindDifference\FindDifferenceView.cpp(1189,57): warning C4244:         ]
+F:\大三上\数字图像处理技术\FindDifference\FindDifferenceView.cpp(1195,25): warning C4305:  “初始化”: 从“double”到“float”截断
+  FindDifference.vcxproj -> F:\大三上\数字图像处理技术\FindDifference\x64\Debug\FindDifference.exe

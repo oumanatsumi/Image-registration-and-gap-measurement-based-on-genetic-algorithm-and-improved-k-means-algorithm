@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FindDifference", "FindDifference.vcxproj", "{D8D69102-9108-407C-9CD0-C251A1CB2470}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8D69102-9108-407C-9CD0-C251A1CB2470}.Debug|x64.ActiveCfg = Debug|x64
+		{D8D69102-9108-407C-9CD0-C251A1CB2470}.Debug|x64.Build.0 = Debug|x64
+		{D8D69102-9108-407C-9CD0-C251A1CB2470}.Debug|x86.ActiveCfg = Debug|Win32
+		{D8D69102-9108-407C-9CD0-C251A1CB2470}.Debug|x86.Build.0 = Debug|Win32
+		{D8D69102-9108-407C-9CD0-C251A1CB2470}.Release|x64.ActiveCfg = Release|x64
+		{D8D69102-9108-407C-9CD0-C251A1CB2470}.Release|x64.Build.0 = Release|x64
+		{D8D69102-9108-407C-9CD0-C251A1CB2470}.Release|x86.ActiveCfg = Release|Win32
+		{D8D69102-9108-407C-9CD0-C251A1CB2470}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC68D229-58AC-4B64-BDA6-B2B424424C13}
+	EndGlobalSection
+EndGlobal
